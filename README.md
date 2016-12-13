@@ -9,3 +9,8 @@ This pdf contains:
   - Observer Pattern
   - Factory Pattern
   - Proxy Pattern
+ 
+ 
+Contributions by :
+- Akarsha Sehwag
+- Kushagra Arora
